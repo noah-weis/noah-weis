@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student at University of Oregon<br>Software Engineer<br>Python, C/C++/C#<br>Director of UO LeetClub
+Computer Science Student at University of Oregon<br>Software Engineer<br>Python, C/C++/C#<br>Director of QuackHacks
 
 ## 🌐 Find Me:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://noahweis.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noahweis) 
